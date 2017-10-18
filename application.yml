@@ -1,0 +1,7 @@
+info:
+  description: Dotnet Core HellowWord Configuration
+    url: https://github.com/davekago/dotnetcore-config
+    eureka:
+      client:
+        serviceUrl:
+          defaultZone: http://localhost:8888/eureka/
